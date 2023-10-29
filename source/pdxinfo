@@ -1,7 +1,7 @@
-name=Game Name
-author=Author Name
+name=Game
+author=Author
 description=This is a Playdate game.
 bundleID=com.domain.GameName
 version=1.0
 imagePath=SystemAssets/
-buildNumber=1
+buildNumber=134
